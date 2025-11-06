@@ -25,11 +25,11 @@
 - 🎯 Goal: To become a **Full-Stack Developer**
 ---
 ### 🌱 Learning 
-- JavaScript, Tailwind CSS
+- JavaScript
 ### 🛠️ Skills & Technologies
 <ul>
     <li><b>Languages: </b>HTML5, CSS3, C++, JAVA</li>
-    <li><b>Frontend: </b></li>
+    <li><b>Frontend: </b> Tailwind CSS</li>
     <li><b>Tools: </b>Git, GitHub, VS Code, Bash</li>
 </ul>
 
