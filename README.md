@@ -36,8 +36,8 @@
 ---
 ## 🏆 Achievements & Experiences 
 
-✨ <b>Volunteer </b> – CSE Curnival 2024 GUB <a href="https://drive.google.com/file/d/1I7JaxyIBs7H9P7oC0ywUIJ_-U9W_NG2C/view?usp=drivesdk&usp=embed_facebook&usp=embed_facebook"> Show </a>
-<br>
+✨ **Volunteer** – CSE Curnival 2024 GUB <a href="https://drive.google.com/file/d/1I7JaxyIBs7H9P7oC0ywUIJ_-U9W_NG2C/view?usp=drivesdk&usp=embed_facebook&usp=embed_facebook"> Show </a> <br>
+✨ **Outreach Secretary** - GUB Competitive Programming Arena
 
 ---
 
