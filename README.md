@@ -28,7 +28,7 @@
 - JavaScript
 ### 🛠️ Skills & Technologies
 <ul>
-    <li><b>Languages: </b>HTML5, CSS3, C++, JAVA</li>
+    <li><b>Languages: </b>HTML5, CSS3, C++, Java, JavaScript</li>
     <li><b>Frontend: </b> Tailwind CSS</li>
     <li><b>Tools: </b>Git, GitHub, VS Code, Bash</li>
 </ul>
