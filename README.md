@@ -42,8 +42,8 @@
 ---
 
 ### Stats 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arafathossain01&show_icons=true&theme=tokyonight)
-
- [![Arafat's Top Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=arafathossain01&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/arafathossain01)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arafathossain01&show_icons=true&count_private=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arafathossain01)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arafathossain01&layout=compact)
 
   <br/>
