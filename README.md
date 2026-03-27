@@ -41,9 +41,8 @@
 
 ---
 
-### Stats 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arafathossain01&show_icons=true&count_private=true)  
+### Stats  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arafathossain01)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arafathossain01&layout=compact)
+
 
   <br/>
