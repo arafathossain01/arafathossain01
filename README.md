@@ -27,7 +27,7 @@
 
 ### 🛠️ Skills & Technologies
 <ul>
-    <li><b>Languages: </b> C++, Java, JavaScript</li>
+    <li><b>Languages: </b> C++, Java, JavaScript, c#(basic)</li>
     <li><b>Framework: </b>React.js</li>
     <li><b>Frontend: </b> HTML5, CSS3, Tailwind CSS</li>
     <li><b>Tools: </b>Git, GitHub, VS Code, Bash</li>
