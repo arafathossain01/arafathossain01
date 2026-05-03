@@ -24,6 +24,7 @@
 **Frontend:** Tailwind · React   
 **Database:** MySQL  
 **Tools:** Git · GitHub · Bash · VS Code 
+
 ---
 
 ## Achievements & Experiences 
