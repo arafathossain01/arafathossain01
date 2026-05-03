@@ -25,8 +25,6 @@
 **Database:** MySQL  
 **Tools:** Git · GitHub · Bash · VS Code 
 
----
-
 ## Achievements & Experiences 
 
 ✨ **Volunteer** – CSE Curnival 2024 GUB <a href="Volunteer-232002159.pdf"> Show </a> <br>
