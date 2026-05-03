@@ -4,7 +4,7 @@
     <td>
      <p>💻 <strong>Full-stack development | Backend Developer | Golang Enthusiast | Problem Solver</strong></p>
      <h3>About Me</h3>
-      <p>I'm <strong>Arafat Hossain</strong>, a back-end focused full-stack Engineer, I enjoy learning new things and thinking about how systems work. I love traveling and exploring new places.</p>
+      <p>Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <strong>Arafat Hossain</strong>, a back-end focused full-stack Engineer, I enjoy learning new things and thinking about how systems work. I love traveling and exploring new places.</p>
       <p>I worked as an <strong>Outreach Secretary</strong> in the <a href="https://www.facebook.com/groups/1817305381886263/user/61567709503099/">GUBCPC</a>.</p>
       <a href="mailto:arafathossain.cs@gmail.com" title="Email"><img
           src="https://img.icons8.com/color/30/000000/email--v1.png" /></a>
