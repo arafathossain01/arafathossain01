@@ -43,7 +43,7 @@
 
 ### Stats  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arafathossain01)  
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafathossain01&layout=compact&langs_count=8&theme=transparent" alt="Top Languages" />
+![Github language_status](https://github-readme-stats.vercel.app/api/top-langs/?username=arafathossain01)
 
 
   <br/>
