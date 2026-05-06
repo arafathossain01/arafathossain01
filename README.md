@@ -22,7 +22,7 @@
 
 **Languages:** C++ · JavaScript · GO · SQL    
 **Frontend:** Tailwind · React   
-**Database:** MySQL  
+**Database:** MySQL · PostgreSQL
 **Tools:** Git · GitHub · Bash · VS Code 
 
 ## Achievements & Experiences 
