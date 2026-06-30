@@ -2,7 +2,7 @@
   <tr>
     <td><img src="https://github.com/ArafatHossain-cs/ArafatHossain-cs/blob/main/coding.jpg"></td>
     <td>
-     <p>💻 <strong>Full-stack development | Backend Developer | Golang Enthusiast | Problem Solver</strong></p>
+     <p>💻 <strong>Full-stack development | Backend Developer | Problem Solver</strong></p>
      <h3>About Me</h3>
       <p>Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <strong>Arafat Hossain</strong>, a back-end focused full-stack Engineer, I enjoy learning new things and thinking about how systems work. I love traveling and exploring new places.</p>
       <p>I worked as an <strong>Outreach Secretary</strong> in the <a href="https://www.facebook.com/groups/1817305381886263/user/61567709503099/">GUBCPC</a>.</p>
@@ -20,9 +20,9 @@
 
 ## Technical Stack
 
-**Languages:** C++ · JavaScript · GO · SQL    
+**Languages:** C++ · JavaScript · c# · SQL    
 **Frontend:** Tailwind · React   
-**Database:** MySQL · PostgreSQL   
+**Database:** SQL Server   
 **Tools:** Git · GitHub · Bash · VS Code 
 
 ## Achievements & Experiences 
