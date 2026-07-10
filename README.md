@@ -1,31 +1,69 @@
-<table>
-  <tr>
-    <td><img src="https://github.com/ArafatHossain-cs/ArafatHossain-cs/blob/main/coding.jpg"></td>
-    <td>
-     <p>💻 <strong>Full-stack development | Backend Developer | Problem Solver</strong></p>
-     <h3>About Me</h3>
-      <p>Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <strong>Arafat Hossain</strong>, a back-end focused full-stack Engineer, I enjoy learning new things and thinking about how systems work. I love traveling and exploring new places.</p>
-      <p>I worked as an <strong>Outreach Secretary</strong> in the <a href="https://www.facebook.com/groups/1817305381886263/user/61567709503099/">GUBCPC</a>.</p>
-      <a href="mailto:arafathossain.cs@gmail.com" title="Email"><img
-          src="https://img.icons8.com/color/30/000000/email--v1.png" /></a>
-<!--       <a href=" title="Homepage"><img
-          src="https://img.icons8.com/ios-glyphs/30/000000/portfolio.png" /></a> -->
-      <a href="https://www.linkedin.com/in/arafat-hossain-53a8b0248" title="LinkedIn"><img
-          src="https://img.icons8.com/color/30/000000/linkedin.png" /></a>
-      <a href="https://www.facebook.com/jovial.ah" title="Facebook"><img
-          src="https://img.icons8.com/color/30/000000/facebook.png" /></a>
-    </td> 
-  </tr>
-</table>
+<h1 align="center"> Hi!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Md. Arafat Hossain.</h1>
 
-## Technical Stack
+<p align="center"> .NET Developer Enthusiast • Competitive Programmer • Undergraduate Student</p>
 
-**Languages:** C++ · JavaScript · c# · SQL    
-**Frontend:** Tailwind · React   
-**Database:** SQL Server   
-**Tools:** Git · GitHub · Bash · VS Code 
+--- 
 
-## Achievements & Experiences 
+## 🌌 About Me
+I'm Arafat Hossain, an undergraduate CS student passionate about building scalable web applications and solving complex algorithmic challenges. I am focused on becoming a **Backend-driven Full Stack Engineer**, deep-diving into the **.NET ecosystem** while maintaining a strong foundation in **Data Structures & Algorithms (DSA)**.
 
-✨ **Volunteer** – CSE Curnival 2024 GUB <a href="Volunteer-232002159.pdf"> Show </a> <br>
-✨ **Outreach Secretary** - GUB Competitive Programming Arena <a href="https://drive.google.com/file/d/1Ulf2OfOqkCtReHnMGnG95M6_hEuWr9Zz/view?usp=drive_link">Show</a>
+- 🎓 **Education:** B.Sc. in Computer Science and Engineering
+- 💻 **Core Focus:** ASP.NET Core, Clean Architecture, and Enterprise Software Design
+- 🧠 **Problem Solving:** Actively participating in Competitive Programming contests
+- 🚀 **Goal:** Writing clean, maintainable, and high-performance code to solve real-world problems
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🌐 Backend & Core Development
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+
+### 🧠 Programming Languages (CP)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+
+### 🎨 Frontend Frameworks & Styling
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+### 🛠️ IDEs, Tools & Platforms
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 🏆 Competitive Programming Profiles
+My love for problem-solving keeps me sharp. You can track my coding journey here:
+
+- 🔴 **Codeforces:** [@SegFaultMama](https://codeforces.com/profile/SegFaultMama) ![Codeforces](https://img.shields.io/badge/Codeforces-%23445f9d.svg?style=flat-square&logo=Codeforces&logoColor=white) (Max Rating: `Your_Rating_Here`)
+- 🟡 **LeetCode:** [@SegFaultMama](https://leetcode.com/u/SegFaultMama/) ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black) (Solved `150+` Problems)
+
+---
+
+## 🚀 Featured Projects
+Here are a few projects that demonstrate my Full Stack and Backend engineering capabilities:
+
+### 💼 [Project Name 1] - Full-Stack Application
+*   **Description:** A complete web application focusing on scalable backend APIs and smooth user experience.
+*   **Tech Stack:** ASP.NET Core Web API, React, Entity Framework Core, MS SQL Server.
+*   **Key Features:** Implemented Clean Architecture, JWT Authentication, and Repository Pattern.
+*   🔗 [Frontend Repo] | [Backend Repo]
+
+### 🛠️ [Project Name 2] - Responsive Frontend/Web App
+*   **Description:** A high-performance responsive frontend application showcasing modern design and dynamic interactions.
+*   **Tech Stack:** HTML5, CSS3, JavaScript, Tailwind CSS.
+*   🔗 [Live Demo](https://your-link.com) | [GitHub Repo]
+
+---
+
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=visual_studio_code" alt="Arafat's GitHub Stats" height="180M" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=visual_studio_code" alt="Top Langs" height="180M" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+Let's talk about software architecture, .NET, or deep tech discussions!
+
+- 📧 **Email:** arafathossain.cs@gmail.com
+- 💼 **LinkedIn:** [/in/your-linkedin-handle](https://linkedin.com/in/your-linkedin-handle)
