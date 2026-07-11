@@ -31,4 +31,3 @@ I'm Arafat Hossain, an undergraduate CS student passionate about building scalab
 ### Connect with Me
 
 - 📧 **Email:** arafathossain.cs@gmail.com
-- 💼 **LinkedIn:** [/in/your-linkedin-handle](https://linkedin.com/in/your-linkedin-handle)
