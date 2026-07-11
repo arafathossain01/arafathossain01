@@ -19,46 +19,16 @@ I'm Arafat Hossain, an undergraduate CS student passionate about building scalab
 | **Database** | ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
 | **IDEs, Tools & Platforms** | ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) |
 
+---
 
-### 🛠️ IDEs, Tools & Platforms
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+### Competitive Programming Profiles
+
+- **Codeforces:** [@SegFaultMama](https://codeforces.com/profile/SegFaultMama) ![Codeforces](https://img.shields.io/badge/Codeforces-%23445f9d.svg?style=flat-square&logo=Codeforces&logoColor=white) 
+- **LeetCode:** [@SegFaultMama](https://leetcode.com/u/SegFaultMama/) ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black) 
 
 ---
 
-## 🏆 Competitive Programming Profiles
-My love for problem-solving keeps me sharp. You can track my coding journey here:
-
-- 🔴 **Codeforces:** [@SegFaultMama](https://codeforces.com/profile/SegFaultMama) ![Codeforces](https://img.shields.io/badge/Codeforces-%23445f9d.svg?style=flat-square&logo=Codeforces&logoColor=white) (Max Rating: `Your_Rating_Here`)
-- 🟡 **LeetCode:** [@SegFaultMama](https://leetcode.com/u/SegFaultMama/) ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black) (Solved `150+` Problems)
-
----
-
-## 🚀 Featured Projects
-Here are a few projects that demonstrate my Full Stack and Backend engineering capabilities:
-
-### 💼 [Project Name 1] - Full-Stack Application
-*   **Description:** A complete web application focusing on scalable backend APIs and smooth user experience.
-*   **Tech Stack:** ASP.NET Core Web API, React, Entity Framework Core, MS SQL Server.
-*   **Key Features:** Implemented Clean Architecture, JWT Authentication, and Repository Pattern.
-*   🔗 [Frontend Repo] | [Backend Repo]
-
-### 🛠️ [Project Name 2] - Responsive Frontend/Web App
-*   **Description:** A high-performance responsive frontend application showcasing modern design and dynamic interactions.
-*   **Tech Stack:** HTML5, CSS3, JavaScript, Tailwind CSS.
-*   🔗 [Live Demo](https://your-link.com) | [GitHub Repo]
-
----
-
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=visual_studio_code" alt="Arafat's GitHub Stats" height="180M" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=visual_studio_code" alt="Top Langs" height="180M" />
-</p>
-
----
-
-## 🤝 Connect with Me
-Let's talk about software architecture, .NET, or deep tech discussions!
+### Connect with Me
 
 - 📧 **Email:** arafathossain.cs@gmail.com
 - 💼 **LinkedIn:** [/in/your-linkedin-handle](https://linkedin.com/in/your-linkedin-handle)
